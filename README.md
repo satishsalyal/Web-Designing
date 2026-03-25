@@ -10,7 +10,7 @@
 | Field | Details |
 |---|---|
 | **Course Title** | Web Designing |
-| **Course Code** | LIGMDIT 2000 |
+| **Course Code** | UGGMDIT20003 |
 | **Course Type** | Multidisciplinary Course |
 | **Credits** | Practical: NA |
 | **Maximum Marks** | 75 |
