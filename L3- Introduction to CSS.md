@@ -117,6 +117,7 @@ Selectors define which elements to style.
 CSS properties define how elements should be styled.
 
 ### 3.1 Categories of Properties
+CSS properties are categorized into several groups to control the layout and styling of web elements. The primary categories for text, fonts, and backgrounds include:
 
 * Text properties
 * Font properties
@@ -125,6 +126,71 @@ CSS properties define how elements should be styled.
 * Box model properties
 
 ---
+---
+
+## 1. ✍️ Text Properties
+
+Text properties are used to format the appearance and layout of text content within an element.
+
+### 🔑 Key Properties
+
+* `color` → Sets the color of the text.
+* `text-align` → Aligns text horizontally (e.g., left, right, center, justify).
+* `text-decoration` → Adds visual effects like underline, overline, or line-through.
+* `text-transform` → Controls capitalization (e.g., uppercase, lowercase, capitalize).
+* `text-indent` → Specifies the indentation of the first line of text.
+* `letter-spacing` / `word-spacing` → Adjusts the space between characters or words.
+* `line-height` → Sets the vertical distance between lines of text.
+* `text-shadow` → Adds a shadow effect to text.
+
+---
+
+## 2. 🔤 Font Properties
+
+Font properties define the specific typeface characteristics, such as family, size, and weight.
+
+### 🔑 Key Properties
+
+* `font-family` → Specifies the prioritized list of font families (e.g., "Arial", sans-serif).
+* `font-size` → Sets the size of the font (e.g., 16px, 1.2em).
+* `font-style` → Defines if the text is normal, italic, or oblique.
+* `font-weight` → Sets the thickness of characters (e.g., normal, bold, or numeric values like 700).
+* `font-variant` → Converts text to small-caps.
+* `font` → A shorthand property for setting style, variant, weight, size, line-height, and family in one declaration.
+
+> 🌐 *W3Schools*
+> ➕ +5
+
+---
+
+## 3. 🌄 Background Properties
+
+Background properties control the background effects of an element, including colors and images.
+
+### 🔑 Key Properties
+
+* `background-color` → Sets a solid background color.
+* `background-image` → Specifies one or more background images.
+* `background-repeat` → Determines if/how a background image is repeated (e.g., repeat-x, no-repeat).
+* `background-position` → Sets the starting position of a background image.
+* `background-size` → Specifies the size of the background image (e.g., cover, contain).
+* `background-attachment` → Sets whether a background image scrolls with the rest of the page or is fixed.
+* `background` → A shorthand property to set all background values at once.
+
+---
+
+## ✨ Quick Summary
+
+| Category      | Purpose                                   |
+| ------------- | ----------------------------------------- |
+| ✍️ Text       | Controls layout and formatting of text    |
+| 🔤 Fonts      | Defines typography and appearance         |
+| 🌄 Background | Manages colors and images behind elements |
+
+---
+
+🚀 *Ready to use in GitHub README, documentation, or lecture notes!*
+
 
 ## 4. CSS Styling
 
