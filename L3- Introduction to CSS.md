@@ -158,9 +158,6 @@ Font properties define the specific typeface characteristics, such as family, si
 * `font-variant` → Converts text to small-caps.
 * `font` → A shorthand property for setting style, variant, weight, size, line-height, and family in one declaration.
 
-> 🌐 *W3Schools*
-> ➕ +5
-
 ---
 
 ## 3. 🌄 Background Properties
@@ -188,9 +185,6 @@ Background properties control the background effects of an element, including co
 | 🌄 Background | Manages colors and images behind elements |
 
 ---
-
-🚀 *Ready to use in GitHub README, documentation, or lecture notes!*
-
 
 ## 4. CSS Styling
 
