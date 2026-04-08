@@ -1,5 +1,4 @@
-# 📘 Cascading Style Sheets (CSS) — Postgraduate Lecture Notes
-
+# 📘 Cascading Style Sheets (CSS)
 ---
 
 ## 1. Concept of CSS
