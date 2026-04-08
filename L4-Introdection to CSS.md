@@ -1,4 +1,4 @@
-# 📘 CSS Tables Styling — Postgraduate Lecture Notes
+# 📘 CSS Tables Styling 
 
 ---
 
