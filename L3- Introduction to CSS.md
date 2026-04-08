@@ -332,52 +332,7 @@ h1 {
     color: black;
     font-size: 18px;
 }
-```
 
----
-
-## 6. 🚀 Advanced Notes (PG Level)
-
-### 6.1 CSS Box Model
-
-* Content
-* Padding
-* Border
-* Margin
-
-### 6.2 Responsive Design
-
-```css
-@media (max-width: 600px) {
-    body {
-        background-color: pink;
-    }
-}
-```
-
-### 6.3 CSS Variables
-
-```css
-:root {
-    --main-color: blue;
-}
-
-p {
-    color: var(--main-color);
-}
-```
-
----
-
-## 7. 📝 Summary
-
-* CSS controls **presentation**
-* Styles can be applied via **inline, internal, external**
-* Selectors target elements
-* Properties define appearance
-* CSS enables **responsive and modern web design**
-
----
 
 ## 8. 📚 Exercise Questions
 
