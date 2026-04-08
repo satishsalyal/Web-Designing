@@ -314,7 +314,7 @@ tr:hover {
 ---
 
 
-## 8. 📚 Exercise Questions
+## 7. 📚 Exercise Questions
 
 1. Explain the difference between `border-collapse` and `border-spacing`.
 2. Design a zebra-striped table with hover effects.
