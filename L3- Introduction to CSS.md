@@ -5,7 +5,7 @@
 
 ### 1.1 What is CSS?
 
-**Cascading Style Sheets (CSS)** is a stylesheet language used to describe the presentation and layout of HTML documents. It controls how elements are displayed on screen, paper, or other media.
+**Cascading Style Sheets (CSS)** is a stylesheet language used to describe the presentation and layout of HTML documents. It controls how elements are displayed on web page.
 
 ### 1.2 Why CSS?
 
