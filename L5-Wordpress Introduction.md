@@ -110,11 +110,7 @@ Open the application and click the **"+"** icon or **"Create a new site"**.
 
 ## ✅ Finish
 
-Click **"Add Site."** Once completed, you can access your site by clicking **"Open Site"** or **"WP Admin".**
-
-> 🎥 YouTube
-> 🎥 YouTube
-> ➕ +5
+Click **"Add Site."** Once completed, you can access your site by clicking **"Open Site"** or **"WP Admin".*
 
 ---
 
