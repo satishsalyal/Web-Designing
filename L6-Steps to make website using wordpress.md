@@ -195,16 +195,3 @@ http://localhost/wordpress/index.php
 You will see the default WordPress homepage.
 
 ---
-
-# 🎯 Summary
-
-✅ Install XAMPP
-✅ Start Apache & MySQL
-✅ Create Database
-✅ Download WordPress
-✅ Run Installer
-✅ Setup Admin Account
-✅ Login to Dashboard
-✅ Start Building Website
-
----
