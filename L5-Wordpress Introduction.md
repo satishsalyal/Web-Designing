@@ -77,3 +77,67 @@ Become an authority in your field by offering online courses. WordPress integrat
 ## 🖼️ Online Portfolios
 
 Make a strong first impression with a visually captivating portfolio website. Showcase your creative projects, qualifications, and experience in a way that stuns potential clients or employers.
+
+# ⚙️ How to install WordPress
+
+There are two main ways to install WordPress:
+
+* Installing WordPress on Windows (Local Web Server)
+
+The most common way to install WordPress locally on Windows is by using a tool like **Local (formerly Local by Flywheel)** or **XAMPP**.
+
+---
+
+# 🚀 Method 1: Using "Local" (Easiest)
+
+## 📥 Download
+
+Visit **localwp.com** and click **"Download for free."** Select Windows as your platform.
+
+## 🛠️ Install
+
+Run the downloaded installer and follow the on-screen prompts.
+
+## ➕ Create Site
+
+Open the application and click the **"+"** icon or **"Create a new site"**.
+
+## ⚙️ Configure
+
+* Name your site.
+* Choose the **"Preferred"** environment (handles PHP and MySQL automatically).
+* Set your WordPress admin username and password.
+
+## ✅ Finish
+
+Click **"Add Site."** Once completed, you can access your site by clicking **"Open Site"** or **"WP Admin".**
+
+> 🎥 YouTube
+> 🎥 YouTube
+> ➕ +5
+
+---
+
+# 🖥️ Method 2: Using XAMPP (Manual)
+
+## 📥 Download XAMPP
+
+Install XAMPP from **apachefriends.org**.
+
+## 📦 Download WordPress
+
+Get the latest version from **WordPress.org** and extract the ZIP file.
+
+## 📂 Place Files
+
+Move the extracted **wordpress** folder into the **htdocs** directory (typically `C:\xampp\htdocs`).
+
+## 🗄️ Create Database
+
+* Start **Apache** and **MySQL** in the XAMPP Control Panel.
+* Go to **localhost/phpmyadmin** in your browser and create a new database (e.g., **"my_wordpress"**).
+
+## ▶️ Run Installer
+
+Navigate to **localhost/your_folder_name** in your browser. Follow the setup wizard, entering your database name, **"root"** as the username, and leaving the password blank.
+
