@@ -29,10 +29,6 @@
 
 ---
 
-# 🖥️ What is WordPress?
-
-WordPress is an open-source content management system (CMS). This means it's a free and flexible software that allows you to manage the content of your website without needing extensive coding knowledge. It is the most popular and widely used CMS framework nowadays. Originally launched in **2003** as a blogging platform, WordPress has evolved significantly. Today, it powers over **43% of all websites on the internet**, making it the most popular CMS globally. It is known for its user-friendly interface, extensive plugin architecture, and a large and active community. WordPress is written in **PHP** and uses a **MySQL database** to store content.
-
 ---
 
 # ✨ Key Features of WordPress
