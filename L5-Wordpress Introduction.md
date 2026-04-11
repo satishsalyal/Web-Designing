@@ -3,8 +3,6 @@
 
 # 📘 What is WordPress?
 
-# 🌐 WordPress — GitHub Points
-
 * **WordPress** is an open-source **Content Management System (CMS)**.
 * It is **free and flexible software** used to manage website content without requiring extensive coding knowledge.
 * It is the **most popular and widely used CMS framework** nowadays.
