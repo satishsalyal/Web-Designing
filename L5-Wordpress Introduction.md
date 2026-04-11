@@ -3,7 +3,22 @@
 
 # 📘 What is WordPress?
 
-WordPress is a popular content management system (CMS) that powers over **40% of all websites on the internet**. It's an open-source platform that allows users to create, manage, and modify their websites without needing extensive coding knowledge. Whether you're a blogger, business owner, or developer, WordPress offers tools and features to suit your needs.
+# 🌐 WordPress — GitHub Points
+
+* **WordPress** is an open-source **Content Management System (CMS)**.
+* It is **free and flexible software** used to manage website content without requiring extensive coding knowledge.
+* It is the **most popular and widely used CMS framework** nowadays.
+* Originally launched in **2003** as a blogging platform, WordPress has evolved significantly.
+* Today, it powers over **43% of all websites on the internet**.
+* It is considered the **most popular CMS globally**.
+* WordPress is known for its:
+
+  * ✅ User-friendly interface
+  * 🔌 Extensive plugin architecture
+  * 👥 Large and active community
+* WordPress is written in **PHP**.
+* It uses a **MySQL database** to store content.
+
 
 ---
 
