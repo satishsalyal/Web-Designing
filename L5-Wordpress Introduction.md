@@ -3,13 +3,11 @@
 
 # 📘 What is WordPress?
 
-**Last Updated : 21 Aug, 2025**
-
 WordPress is a popular content management system (CMS) that powers over **40% of all websites on the internet**. It's an open-source platform that allows users to create, manage, and modify their websites without needing extensive coding knowledge. Whether you're a blogger, business owner, or developer, WordPress offers tools and features to suit your needs.
 
 ---
 
-# 📑 Table of Content
+# 📑 Content
 
 * What is WordPress?
 * Key Features of WordPress
