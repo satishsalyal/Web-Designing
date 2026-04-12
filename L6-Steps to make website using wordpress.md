@@ -89,8 +89,6 @@ Open:
 localhost/phpmyadmin
 ```
 
-([GeeksforGeeks][1])
-
 ---
 
 # 📥 Step 6: Download WordPress
@@ -116,9 +114,6 @@ Inside phpMyAdmin:
 * Enter any database name
 
   * Example: `mywebsite`
-* Click **Create**
-
-Remember this database name. ([GeeksforGeeks][1])
 
 ---
 
@@ -149,8 +144,6 @@ Then click:
 * Submit
 * Run the Install
 
-([GeeksforGeeks][1])
-
 ---
 
 # 👤 Step 9: Website Setup
@@ -166,7 +159,7 @@ Now enter:
 
 Click:
 
-**Install WordPress** ([GeeksforGeeks][1])
+**Install WordPress** 
 
 ---
 
