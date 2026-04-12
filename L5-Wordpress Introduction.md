@@ -1,4 +1,11 @@
+# 📑 Content
 
+* What is WordPress?
+* Key Features of WordPress
+* How to install WordPress
+* Components of WordPress Dashboard
+
+---
 ---
 
 # 📘 What is WordPress?
@@ -20,14 +27,6 @@
 
 ---
 
-# 📑 Content
-
-* What is WordPress?
-* Key Features of WordPress
-* How to install WordPress
-* Components of WordPress Dashboard
-
----
 
 ---
 
