@@ -69,7 +69,7 @@ Or if you changed the port:
 localhost:1234
 ```
 
-If it works, your local server is running correctly. ([GeeksforGeeks][1])
+If it works, your local server is running correctly.
 
 ---
 
