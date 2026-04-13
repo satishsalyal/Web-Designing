@@ -1,4 +1,4 @@
-# 🖥️ WordPress Dashboard — Complete Guide
+# 🖥️ WordPress Dashboard
 
 > **WordPress Dashboard** is the first screen you see after logging into your WordPress site. It's your command center — offering at-a-glance website stats, quick customization options, and fast access to every admin tool you need.
 
